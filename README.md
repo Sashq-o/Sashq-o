@@ -7,4 +7,4 @@
 </p>
 
 [![trophy](https://git-hub-readme-stats-clone-31uf.vercel.app/?username=Sashq-o&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+)](https://github.com/Sashq-o/github-profile-trophy)
