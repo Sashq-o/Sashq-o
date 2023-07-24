@@ -12,4 +12,4 @@ README.md
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Sashq-o&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Sashq-o/)
 
 <!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sashq-o&layout=compact&theme=tokyonight)](https://github.com/Sashq-o/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sashq-o&count_private=true&layout=compact&theme=tokyonight)](https://github.com/Sashq-o/)
