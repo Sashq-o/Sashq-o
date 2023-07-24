@@ -7,9 +7,3 @@ Hello??
 <- </p> -->
 
 
-README.md
-<!-- リポジトリステータス -->
-[![hogehoge's github stats](https://git-hub-readme-stats-clone-31uf.vercel.app/api//top-langs/?username=Sashq-o&layout=compact&show_icons=true&theme=onedark)(https://github.com/Sashq-o/)
-
-<!-- ソースコード統計 -->
-[![Top used Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=Sashq-o&count_private=true&layout=compact&theme=tokyonight](https://git-hub-readme-stats-clone-31uf.vercel.app/api?username=Sashq-o&theme=onedark&show_icons=ture)https://git-hub-readme-stats-clone-31uf.vercel.app/api?username=Sashq-o&theme=onedark&show_icons=ture)](https://github.com/Sashq-o/)
