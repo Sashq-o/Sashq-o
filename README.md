@@ -24,7 +24,7 @@ https://dl.acm.org/doi/10.1145/3594738.3611357
 [![My Skills](https://skillicons.dev/icons?i=discord,figma,notion,git,github)](https://skillicons.dev)
 ### コミュニケーション・デザインツール
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,pycharm,eclipse,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cursor,androidstudio,pycharm,eclipse,vscode,visualstudio)](https://skillicons.dev)
 ### IDE・開発環境
 
 [![My Skills](https://skillicons.dev/icons?i=matlab)](https://skillicons.dev)
