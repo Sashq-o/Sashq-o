@@ -9,4 +9,6 @@ https://dl.acm.org/doi/10.1145/3594738.3611357
 
 
 ## skill sets
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,python,react)](https://skillicons.dev)
+
+
