@@ -9,6 +9,26 @@ https://dl.acm.org/doi/10.1145/3594738.3611357
 
 
 ## skill sets
-[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,arduino,aws,bash,bootstrap,c,discord,docker,dynamodb,eclipse,emacs,fastapi,figma,firebase,git,github,ai,java,laravel,latex,linux,md,matlab,mysql,nextjs,nodejs,notion,npm,php,powershell,processing,pycharm,sklearn,tailwind,tensorflow,ts,ubuntu,unreal,vercel,visualstudio,vite,vscode,vue,js,html,css,python,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nextjs,tailwind,bootstrap,vite)](https://skillicons.dev)
+### フロントエンド
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,php,c,go,processing,sklearn,tensorflow,fastapi)](https://skillicons.dev)
+### プログラミング言語
+
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,powershell,git,github)](https://skillicons.dev)
+### 開発ツール・環境
+
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,azure,firebase,laravel,anaconda,php,mysql,postgresql)](https://skillicons.dev)
+### クラウド・バックエンド
+
+[![My Skills](https://skillicons.dev/icons?i=discord,figma,notion,git,github)](https://skillicons.dev)
+### コミュニケーション・デザインツール
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,pycharm,eclipse,vscode,visualstudio)](https://skillicons.dev)
+### IDE・開発環境
+
+[![My Skills](https://skillicons.dev/icons?i=matlab)](https://skillicons.dev)
+### その他
+
 
 
