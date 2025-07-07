@@ -10,10 +10,10 @@ https://dl.acm.org/doi/10.1145/3594738.3611357
 
 ## skill sets
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nextjs,tailwind,bootstrap,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,vue,nextjs,tailwind,bootstrap,vite)](https://skillicons.dev)
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java,php,c,go,processing,sklearn,tensorflow,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,go,processing,sklearn,tensorflow,fastapi)](https://skillicons.dev)
 
 ### Development Tools & Environments
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,powershell,git,github)](https://skillicons.dev)
